@@ -1,1 +1,6 @@
-*.Identifier 
+
+*.Identifier
+./config.json
+config.json
+
+
